@@ -1,0 +1,8 @@
+CREATE TABLE comments(
+id_command INTEGER, describe_command TINYTEXT,
+PRIMARY KEY (id_command));
+CREATE TABLE infoper(
+info_id INTEGER, info_type TINYTEXT,
+PRIMARY KEY(info_id) );
+CREATE TABLE main(
+id_command INTEGER, command TINYTEXT, info_id INTEGER);
