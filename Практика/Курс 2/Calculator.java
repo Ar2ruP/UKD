@@ -1,3 +1,5 @@
+// Скласти програму, яка вводила б два цiлi числа, знаходила iх добуток, рiзницю i виводила результат на екран.
+
 import java.util.Scanner;
 public class Calculator {
     public static void main (String Args[]){
