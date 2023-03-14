@@ -1,3 +1,4 @@
+//Скласти програму  для виводу шапки i одного рядка машинограми
 import java.util.Scanner;
 public class Typescript {
     public static void main (String Args[]){
