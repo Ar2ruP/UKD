@@ -1,3 +1,5 @@
+/* Квіткова клумба має форму круга. Обчислити її параметр і площу за заданим радіусом */
+
 #include <iostream>
 #include <math.h>
 using namespace std;
